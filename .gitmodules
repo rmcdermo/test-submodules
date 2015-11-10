@@ -1,0 +1,6 @@
+[submodule "odt1"]
+	path = odt1
+	url = git@github.com:rmcdermo/odt1.git
+[submodule "sandbox"]
+	path = sandbox
+	url = git@github.com:rmcdermo/sandbox.git
